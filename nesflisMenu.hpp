@@ -1,7 +1,3 @@
-// Final project
-// Streaming service
-// Christian Jesús González Ramírez     A01657929
-// Luis Grabriel Martínez Rentería      A01651812
 #include <iostream>
 #include <string>
 #include <new>
