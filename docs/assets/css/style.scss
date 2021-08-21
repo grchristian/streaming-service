@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.site-footer {
+    display: none;
+}
+
+body {
+    background-color: white;
+}
+
+p {
+    color: black;
+}
