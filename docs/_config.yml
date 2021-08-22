@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: Streaming
-description: false
+description: [false]
 show_downloads: [true]
